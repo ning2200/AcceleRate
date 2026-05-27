@@ -1,4 +1,4 @@
-# AcceleRate - AI-Powered Motion Analytics
+# AcceleRate
 
 > [!NOTE]
 > This project was built as a MVP during a hackathon and won 1st place. It is presented in its original form with no further development or production optimisation.
