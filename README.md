@@ -1,4 +1,4 @@
-# AI Fitness Tracker
+# AcceleRate - AI-Powered Motion Analytics
 
 > [!NOTE]
 > This project was built as a MVP during a hackathon and won 1st place. It is presented in its original form with no further development or production optimisation.
@@ -16,7 +16,7 @@ This project demonstrates a complete end-to-end pipeline for activity recognitio
 * Interactive dashboard with health metrics
 * Full GUI application with optional mobile integration
 
-## Key Concepts
+## Key Concepts (remove?)
 
 * Time-series data processing
 * Feature engineering
@@ -25,7 +25,7 @@ This project demonstrates a complete end-to-end pipeline for activity recognitio
 * Human activity recognition
 * Interactive UI development in MATLAB
 
-## Project Flow
+## Project Flow (update here)
 
 1. Data simulation
 2. Feature extraction
@@ -42,7 +42,7 @@ This project demonstrates a complete end-to-end pipeline for activity recognitio
 * Uses synthetic data (not validated on real-world datasets)
 * Simplified physiological models for heart rate and calories
 * Limited to 4 activity classes
-* Not optimsied for deployment or large-scale use
+* Not optimised for deployment or large-scale use
 
 ## Possible Future Improvements
 
@@ -55,9 +55,9 @@ This project demonstrates a complete end-to-end pipeline for activity recognitio
 ## Requirements and Usage
 
 1. MATLAB (R2021a or later recommended), Statistics and Machine Learning Toolbox, MATLAB Mobile (for mobile sensor integration)
-2. Run fitness_model_training to train the model
-3. Run fitness_live_dashboard to launch live dashboard
-4. Run fitness_tracker_mobile_app to launch full GUI app
+2. Run model.m to train the model
+3. Run dashboard.m to launch live dashboard
+4. Run app.m to launch full GUI app
 
 ## License
 
